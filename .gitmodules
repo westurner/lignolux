@@ -1,0 +1,6 @@
+[submodule "src/schematool"]
+	path = src/schematool
+	url = ssh://git@github.com/westurner/schematool
+[submodule "src/transform_md"]
+	path = src/transform_md
+	url = ssh://git@github.com/westurner/transform_md
