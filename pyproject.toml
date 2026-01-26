@@ -20,6 +20,8 @@ dependencies = [
     "furo",
     "linkify-it-py",
     "requests-cache",
+    "pytest-cov",
+    "responses"
 ]
 
 [project.scripts]
