@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "sustainablefactory"
+version = "0.1.0"
+description = "Modeling sustainable factory processes with Linked Data and MyST Markdown"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "click",
+    "pyoxigraph",
+    "pyyaml",
+    "rdflib",
+    # for the docs:
+    "sphinx",
+    "myst-parser",
+    "sphinxcontrib-mermaid",
+    "furo",
+    "linkify-it-py",
+    "requests-cache",
+]
+
+[project.scripts]
+sfcli = "sustainablefactory.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["sustainablefactory"]
