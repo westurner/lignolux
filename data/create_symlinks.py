@@ -27,7 +27,7 @@ __version__ = "0.0.1"
 def build_config():
     source_chats = Path('./chats/')
     overlays = {}
-    overlays['all'] = Path('chatoverlay') / 'all'
+    overlays['all'] = Path('chatoverlay') / 'chats__all'
     config = dict(
         source_chats=source_chats,
         overlays=overlays,
