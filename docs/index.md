@@ -1,10 +1,12 @@
 # Sustainable Factory Documentation
 
-Welcome to the Sustainable Factory project documentation. This project uses MyST Markdown to capture process information and exports it to RDF-star for advanced manufacturing ontologies.
+Welcome to the Sustainable Factory project documentation.
 
+
+## Sustainable Factory Project
 ```{toctree}
-:maxdepth: 2
-:caption: Contents:
+:maxdepth: 3
+:caption: Table of Contents:
 
 readme
 paper.myst
@@ -13,11 +15,23 @@ visualization
 cli_reference
 ```
 
-## Overview
-This system parses industrial process descriptions (like [paper.myst.md](paper.myst.md)) and converts them into a structured graph linked data represention
+## Appendices
+
+```{toctree}
+tables_and_figures.myst
+chats/index
+chats/*.myst
+```
+
+## `sustainablefactory` Software 
+This project uses MyST Markdown and JSON to capture and model sustainable process and product information and generates RDF-star linked data.
+
+This system parses industrial process descriptions (like [paper.myst.md](paper.myst.md)) and converts them into a structured graph linked data representation
 using the **Industrial Ontologies Foundry (IOF)** and sustainablefactory process schema.
 [ [schema](schema.md) ]
 
 - **Parser**: Extracts steps, properties, and Mermaid diagrams.
 - **RDF Generator**: Produces Turtle-star (`.ttl`) with reified confidence metrics.
 - **Visualizer**: Integrated Mermaid diagrams for process flow overview.
+
+- See {ref}`readme`
