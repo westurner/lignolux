@@ -1,0 +1,30 @@
+{
+	"name": "Sustainable Factory",
+	"image": "quay.io/fedora/fedora-toolbox:43",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-python.python",
+				"ms-python.vscode-pylance",
+				"tamasfe.even-better-toml",
+				"executablebookproject.myst-highlight",
+				"cospaia.turtle",
+				"redhat.vscode-xml",
+				"stardog-union.stardog-sparql-grammar",
+				"arkaitz.markdown-mermaid"
+			],
+			"settings": {
+				"python.defaultInterpreterPath": "/usr/bin/python3"
+			}
+		}
+	},
+	"remoteUser": "root",
+	"runArgs": [
+		//"--privileged",
+		"--userns=keep-id",
+		"--security-opt=label=disable"
+	],
+	//"onCreateCommand": "sudo useradd -s /bin/bash -m fedora",
+	"postCreateCommand": "sudo dnf install -y python3-pip ruff zsh && pip install -e . && pip install -e src/schematool && pip install -e src/transform_md",
+	"features": {}
+}
