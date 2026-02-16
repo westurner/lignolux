@@ -1,4 +1,3 @@
-import yaml
 import re
 import json
 from dataclasses import dataclass, field
@@ -21,7 +20,6 @@ class ProcessStep:
     materials: List[str] = field(default_factory=list)
     citations: List[str] = field(default_factory=list)
     next_steps: List[str] = field(default_factory=list)
-
 
 
 def parse_markdown_tables(text):
