@@ -23,7 +23,7 @@ chats/index
 chats/*.myst
 ```
 
-## `sustainablefactory` Software 
+## `sustainablefactory` Software
 This project uses MyST Markdown and JSON to capture and model sustainable process and product information and generates RDF-star linked data.
 
 This system parses industrial process descriptions (like [paper.myst.md](paper.myst.md)) and converts them into a structured graph linked data representation

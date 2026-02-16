@@ -109,41 +109,41 @@ This diagram adds the **Phytic Acid** input stream and solidifies the integrated
         Biomass(Wood Waste)
         SandInput(Silica Sand)
         SeedWaste(Phytic Acid Source)
-        
+
         %% --- ENERGY CORE ---
         subgraph "Energy Core & Storage"
             Receiver[Solar Thermal Receiver 1200°C]
             SandBat[Sand Thermal Battery]
             Hx[Heat Exchanger]
         end
-    
+
         %% --- PHASE 1: MATERIAL SYNTHESIS ---
         subgraph "Phase 1: Bio-Refinery"
             Fraction[Biomass Fractionation]
-            
+
             %% The Safety Addition
             Phytic[Phytic Acid Extraction]
-            
+
             subgraph "Hot Zone"
                 Pyrolysis[Pyrolysis Reactor]
                 CVD[CVD Reactor]
             end
-            
+
             Refining[Lignin Refining]
             Chem[Enzymatic Reactor]
-            
+
             %% The Safe Substrate
             Resin[Fire-Safe Lignin Vitrimer]
-            
+
             Ink[CNT/PCLP Ink]
             SAND[Bio-SAND Precursor]
             OptResin[Transparent CNC Resin]
             LaserDye[Organic Gain Dye]
         end
-    
+
         %% --- PHASE 2: THE LCS STEPPER ---
         subgraph "Phase 2: The LCS Stepper Core"
-            
+
             %% Laser Engine
             subgraph "Hybrid Laser Engine"
                 SolarPump[Day: Solar Pump]
@@ -151,44 +151,44 @@ This diagram adds the **Phytic Acid** input stream and solidifies the integrated
                 Combiner{Beam Combiner}
                 LaserOut[Femtosecond Pulse Train]
             end
-            
+
             %% Logic Fabrication (Smart Loop)
             subgraph "Logic Mode (Smart Loop)"
                 Wafer[Vitri-Wafer Casting]
                 Align[Calibration]
                 Trench[Laser Trenching]
                 Deposit[CNT Self-Assembly]
-                
+
                 %% INTEGRATED QC
                 HSI[Hyperspectral Purity Scan]
                 Metrology[In-Situ Electrical Test]
-                
+
                 %% ACTION
                 Cleave[Adaptive Cleave & Trim]
                 Weld[LIG Contact Welding]
             end
-            
+
             %% Tool Fabrication
             subgraph "Tool Mode (Recursion)"
                 PrintOptic[2PP Lens Print]
                 PrintMEMS[MEMS Assembly]
             end
         end
-    
+
         %% --- PHASE 3: OUTPUT ---
         subgraph "Phase 3: Certification"
             Foam[Phytic-Foam ILD]
             Encapsulate[Vitrimer Seal]
-            
+
             %% FINAL QC
             THz[Terahertz Structural Scan]
-            
+
             FinalChip(2nm Lignin RISC-V Chip)
             SpareParts(Factory Spare Parts)
         end
-    
+
         %% --- CONNECTIONS ---
-        
+
         %% Inputs
         Biomass --> Fraction
         SeedWaste --> Phytic
@@ -197,17 +197,17 @@ This diagram adds the **Phytic Acid** input stream and solidifies the integrated
         Sun ==> Receiver
         Receiver ==> SandBat
         SandBat -.-> Pyrolysis
-        
+
         %% Material Prep
         Fraction --> Pyrolysis
         Pyrolysis --> CVD
         CVD --> Ink
         Fraction --> Refining
         Refining --> Resin
-        
+
         %% The Safety Mix
         Phytic --> Resin
-        
+
         %% Wafer Flow
         Resin --> Wafer
         Wafer --> Trench
@@ -220,14 +220,14 @@ This diagram adds the **Phytic Acid** input stream and solidifies the integrated
         Foam --> Encapsulate
         Encapsulate --> THz
         THz --> FinalChip
-        
+
         %% Recursion
         OptResin --> PrintOptic
         Resin --> PrintMEMS
         PrintOptic --> SpareParts
         SpareParts -.-> Combiner
         SpareParts -.-> HSI
-    
+
         %% Styling
         style Phytic fill:#ff9,stroke:#333
         style Resin fill:#9f9,stroke:#333
@@ -239,11 +239,11 @@ This diagram adds the **Phytic Acid** input stream and solidifies the integrated
 ### v6.3 Benefits
 
 1.  **Safety:** The **Phytic Acid** addition answers the bio-hazard question. If the chip burns, the CNTs are locked in char.
-    
+
 2.  **Yield:** The **HSI + Electrical Metrology** loop answers the "Crooked Tube" question. The machine corrects defects in real-time.
-    
+
 3.  **Resilience:** The **Sand Battery + Hybrid Laser** answers the "Nighttime" question. The factory never sleeps.
-    
+
 4.  **Cost:** The **Recursion (Tool Printing)** answers the "Depreciation" question. The factory costs essentially nothing to maintain once built.
 
 

@@ -18,7 +18,7 @@ extensions = [
     # "sphinx.ext.doctest",
     # "sphinx.ext.githubpages",
     # "sphinx.ext.ifconfig",
-    #"sphinx.ext.imgmath",  # requires `latex`
+    # "sphinx.ext.imgmath",  # requires `latex`
     "sphinx.ext.intersphinx",
     "sphinx.ext.mathjax",
     "sphinx.ext.autodoc",
@@ -54,12 +54,13 @@ myst_fence_as_directive = ["mermaid"]
 # -- Options for HTML output -------------------------------------------------
 try:
     import wrd_sphinx_theme
+
     html_theme = "wrd_sphinx_theme"
 except ImportError:
     # html_theme = "furo"      # pip install furo
     # html_theme = "sphinxdoc" # native
     # html_theme = "nature"    # native
-    html_theme = "classic"     # native
+    html_theme = "classic"  # native
     print(f"NOTE: wrd_sphinx_theme not found. Defaulting to html_theme={html_theme!r}")
 
 html_static_path = ["_static", "../schema"]

@@ -18,7 +18,7 @@ classDiagram
     class Product {
         rdfs:label string
     }
-    
+
     PlannedProcess --|> BFO_0000015 : is a
     PlannedProcess "*" --> "*" MaterialResource : participates_in
     Product --> "1" PlannedProcess : is_output_of

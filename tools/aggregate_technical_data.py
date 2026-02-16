@@ -108,9 +108,7 @@ def generate_report_content(files: List[str], output: TextIO) -> None:
 
             if step.cost_figures:
                 write("#### Cost Figures\n\n")
-                write(
-                    ", ".join([f"`{c}`" for c in step.cost_figures]) + "\n\n"
-                )
+                write(", ".join([f"`{c}`" for c in step.cost_figures]) + "\n\n")
 
             if hasattr(step, "metrics") and step.metrics:
                 write("#### Performance Metrics\n\n")
@@ -120,15 +118,11 @@ def generate_report_content(files: List[str], output: TextIO) -> None:
 
             if hasattr(step, "materials") and step.materials:
                 write("#### Materials & Chemicals\n\n")
-                write(
-                    ", ".join([f"`{m}`" for m in step.materials]) + "\n\n"
-                )
+                write(", ".join([f"`{m}`" for m in step.materials]) + "\n\n")
 
             if hasattr(step, "equipment") and step.equipment:
                 write("#### Equipment & Tools\n\n")
-                write(
-                    ", ".join([f"`{e}`" for e in step.equipment]) + "\n\n"
-                )
+                write(", ".join([f"`{e}`" for e in step.equipment]) + "\n\n")
 
             if hasattr(step, "latex_math") and step.latex_math:
                 write("#### Mathematical Formulas\n\n")
@@ -147,9 +141,7 @@ def generate_report_content(files: List[str], output: TextIO) -> None:
                 for table in step.tables:
                     headers = table["headers"]
                     write("| " + " | ".join(headers) + " |\n")
-                    write(
-                        "| " + " | ".join(["---"] * len(headers)) + " |\n"
-                    )
+                    write("| " + " | ".join(["---"] * len(headers)) + " |\n")
                     for row in table["rows"]:
                         write(
                             "| "
@@ -157,7 +149,7 @@ def generate_report_content(files: List[str], output: TextIO) -> None:
                             + " |\n"
                         )
                     write("\n\n")
-            
+
             flush()
 
         write("---\n\n")
@@ -184,28 +176,28 @@ def generate_jsonld_content(files: List[str], output: TextIO) -> None:
                 "@type": "sf:Process",
                 "rdfs:label": step.label,
             }
-            
+
             if hasattr(step, "id") and step.id:
-                 node["@id"] = step.id 
+                node["@id"] = step.id
 
             if hasattr(step, "metrics") and step.metrics:
                 node["sf:metric"] = step.metrics
-            
+
             if hasattr(step, "cost_figures") and step.cost_figures:
                 node["sf:costEstimate"] = step.cost_figures
 
             if hasattr(step, "materials") and step.materials:
                 node["sf:usesMaterial"] = step.materials
-            
+
             if hasattr(step, "equipment") and step.equipment:
                 node["sf:usesEquipment"] = step.equipment
-                
+
             if hasattr(step, "latex_math") and step.latex_math:
                 node["sf:formula"] = step.latex_math
-            
+
             if hasattr(step, "citations") and step.citations:
                 node["sf:citation"] = step.citations
-            
+
             graph.append(node)
 
     context = {
@@ -215,11 +207,8 @@ def generate_jsonld_content(files: List[str], output: TextIO) -> None:
         "xsd": "http://www.w3.org/2001/XMLSchema#",
     }
 
-    doc = {
-        "@context": context,
-        "@graph": graph
-    }
-    
+    doc = {"@context": context, "@graph": graph}
+
     json.dump(doc, output, indent=2)
 
 
