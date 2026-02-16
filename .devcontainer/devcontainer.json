@@ -25,6 +25,6 @@
 		"--security-opt=label=disable"
 	],
 	//"onCreateCommand": "sudo useradd -s /bin/bash -m fedora",
-	"postCreateCommand": "sudo dnf install -y python3-pip ruff zsh && pip install -e . && pip install -e src/schematool && pip install -e src/transform_md",
+	"postCreateCommand": "sudo dnf install -y python3-pip ruff zsh ripgrep zeromq-devel nodejs-npm python3-pytest-mock python3-pytest-cov python3-pytest-xdist python3-hypothesis python3-hypothesis+pytest make bash-completion && pip install -e . && pip install -e src/schematool && pip install -e src/transform_md",
 	"features": {}
 }
