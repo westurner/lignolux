@@ -1,0 +1,2 @@
+-e ./src/schematool
+-e ./src/transform_md
