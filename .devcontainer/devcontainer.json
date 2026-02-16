@@ -11,7 +11,8 @@
 				"cospaia.turtle",
 				"redhat.vscode-xml",
 				"stardog-union.stardog-sparql-grammar",
-				"arkaitz.markdown-mermaid"
+				"arkaitz.markdown-mermaid",
+				"charliermarsh.ruff"
 			],
 			"settings": {
 				"python.defaultInterpreterPath": "/usr/bin/python3"
