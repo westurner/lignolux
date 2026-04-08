@@ -12,7 +12,7 @@
       }
     ],
     "created_at": "2026-02-08 18:40:37",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446698
   },
   {
     "id": "r_ed79aeb1be858220_assistant",
@@ -20,7 +20,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -28,7 +28,7 @@
       }
     ],
     "created_at": "2026-02-08 18:40:37",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446698
   },
   {
     "id": "r_106af5432b798514_user",
@@ -43,7 +43,7 @@
       }
     ],
     "created_at": "2026-02-08 18:41:31",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446698
   },
   {
     "id": "r_106af5432b798514_assistant",
@@ -51,7 +51,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -59,7 +59,7 @@
       }
     ],
     "created_at": "2026-02-08 18:41:31",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446698
   },
   {
     "id": "r_29876de156f87eb3_user",
@@ -74,7 +74,7 @@
       }
     ],
     "created_at": "2026-02-08 18:43:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_29876de156f87eb3_assistant",
@@ -82,7 +82,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -94,7 +94,7 @@
       }
     ],
     "created_at": "2026-02-08 18:43:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5a07f8fa5d0213d4_user",
@@ -109,7 +109,7 @@
       }
     ],
     "created_at": "2026-02-08 18:45:02",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5a07f8fa5d0213d4_assistant",
@@ -117,7 +117,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -129,7 +129,7 @@
       }
     ],
     "created_at": "2026-02-08 18:45:02",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_3145eeb4a48c83db_user",
@@ -144,7 +144,7 @@
       }
     ],
     "created_at": "2026-02-08 18:45:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_3145eeb4a48c83db_assistant",
@@ -152,7 +152,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -160,7 +160,7 @@
       }
     ],
     "created_at": "2026-02-08 18:45:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_0845606133b2b8eb_user",
@@ -175,7 +175,7 @@
       }
     ],
     "created_at": "2026-02-08 18:48:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_0845606133b2b8eb_assistant",
@@ -183,7 +183,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -191,7 +191,7 @@
       }
     ],
     "created_at": "2026-02-08 18:48:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6c04529cd484b8ed_user",
@@ -206,7 +206,7 @@
       }
     ],
     "created_at": "2026-02-08 18:48:38",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6c04529cd484b8ed_assistant",
@@ -214,7 +214,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -222,7 +222,7 @@
       }
     ],
     "created_at": "2026-02-08 18:48:38",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b05de6d6522f692c_user",
@@ -237,7 +237,7 @@
       }
     ],
     "created_at": "2026-02-08 18:50:01",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b05de6d6522f692c_assistant",
@@ -245,7 +245,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -257,7 +257,7 @@
       }
     ],
     "created_at": "2026-02-08 18:50:01",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_d4d2bc5490cd81ff_user",
@@ -272,7 +272,7 @@
       }
     ],
     "created_at": "2026-02-08 18:52:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_d4d2bc5490cd81ff_assistant",
@@ -280,7 +280,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -292,7 +292,7 @@
       }
     ],
     "created_at": "2026-02-08 18:52:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_fec5a6be7edac2e6_user",
@@ -307,7 +307,7 @@
       }
     ],
     "created_at": "2026-02-08 18:52:48",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_fec5a6be7edac2e6_assistant",
@@ -315,7 +315,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -327,7 +327,7 @@
       }
     ],
     "created_at": "2026-02-08 18:52:48",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e896bd2953534814_user",
@@ -342,7 +342,7 @@
       }
     ],
     "created_at": "2026-02-08 18:54:29",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e896bd2953534814_assistant",
@@ -350,7 +350,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -362,7 +362,7 @@
       }
     ],
     "created_at": "2026-02-08 18:54:29",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5247c285af0027ef_user",
@@ -377,7 +377,7 @@
       }
     ],
     "created_at": "2026-02-08 18:56:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5247c285af0027ef_assistant",
@@ -385,7 +385,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -393,7 +393,7 @@
       }
     ],
     "created_at": "2026-02-08 18:56:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_44e6a1c44b01257d_user",
@@ -408,7 +408,7 @@
       }
     ],
     "created_at": "2026-02-08 18:57:23",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_44e6a1c44b01257d_assistant",
@@ -416,7 +416,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -424,7 +424,7 @@
       }
     ],
     "created_at": "2026-02-08 18:57:23",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1eb223369e6f67ba_user",
@@ -439,7 +439,7 @@
       }
     ],
     "created_at": "2026-02-08 19:00:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1eb223369e6f67ba_assistant",
@@ -447,7 +447,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -455,7 +455,7 @@
       }
     ],
     "created_at": "2026-02-08 19:00:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1e1eec443995957f_user",
@@ -470,7 +470,7 @@
       }
     ],
     "created_at": "2026-02-08 19:03:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1e1eec443995957f_assistant",
@@ -478,7 +478,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -486,7 +486,7 @@
       }
     ],
     "created_at": "2026-02-08 19:03:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_d0985b2f61fcb09f_user",
@@ -501,7 +501,7 @@
       }
     ],
     "created_at": "2026-02-08 19:07:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_d0985b2f61fcb09f_assistant",
@@ -509,7 +509,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -521,7 +521,7 @@
       }
     ],
     "created_at": "2026-02-08 19:07:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_73e8346dd2e7588a_user",
@@ -536,7 +536,7 @@
       }
     ],
     "created_at": "2026-02-08 19:08:57",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_73e8346dd2e7588a_assistant",
@@ -544,7 +544,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -552,7 +552,7 @@
       }
     ],
     "created_at": "2026-02-08 19:08:57",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1034c0745e3133b5_user",
@@ -567,7 +567,7 @@
       }
     ],
     "created_at": "2026-02-08 19:09:36",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_1034c0745e3133b5_assistant",
@@ -575,7 +575,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -583,7 +583,7 @@
       }
     ],
     "created_at": "2026-02-08 19:09:36",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cb3fc3d10899a5ca_user",
@@ -598,7 +598,7 @@
       }
     ],
     "created_at": "2026-02-08 19:13:47",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cb3fc3d10899a5ca_assistant",
@@ -606,7 +606,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -618,7 +618,7 @@
       }
     ],
     "created_at": "2026-02-08 19:13:47",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_96b76732344397c8_user",
@@ -633,7 +633,7 @@
       }
     ],
     "created_at": "2026-02-08 19:15:56",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_96b76732344397c8_assistant",
@@ -641,7 +641,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -649,7 +649,7 @@
       }
     ],
     "created_at": "2026-02-08 19:15:56",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_258a64e91e524f3e_user",
@@ -664,7 +664,7 @@
       }
     ],
     "created_at": "2026-02-08 20:33:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_258a64e91e524f3e_assistant",
@@ -672,7 +672,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -680,7 +680,7 @@
       }
     ],
     "created_at": "2026-02-08 20:33:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_154bd8fc1b4be49a_user",
@@ -695,7 +695,7 @@
       }
     ],
     "created_at": "2026-02-08 20:36:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_154bd8fc1b4be49a_assistant",
@@ -703,7 +703,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -711,7 +711,7 @@
       }
     ],
     "created_at": "2026-02-08 20:36:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ba9b7c29adca4f86_user",
@@ -726,7 +726,7 @@
       }
     ],
     "created_at": "2026-02-08 20:44:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ba9b7c29adca4f86_assistant",
@@ -734,7 +734,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -742,7 +742,7 @@
       }
     ],
     "created_at": "2026-02-08 20:44:15",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_9fe806cf08fbf787_user",
@@ -757,7 +757,7 @@
       }
     ],
     "created_at": "2026-02-08 20:49:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_9fe806cf08fbf787_assistant",
@@ -765,7 +765,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -777,7 +777,7 @@
       }
     ],
     "created_at": "2026-02-08 20:49:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cada8e9634492b4f_user",
@@ -792,7 +792,7 @@
       }
     ],
     "created_at": "2026-02-08 20:53:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cada8e9634492b4f_assistant",
@@ -800,7 +800,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -808,7 +808,7 @@
       }
     ],
     "created_at": "2026-02-08 20:53:06",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_a3f870ab7457799a_user",
@@ -823,7 +823,7 @@
       }
     ],
     "created_at": "2026-02-08 20:57:23",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_a3f870ab7457799a_assistant",
@@ -831,7 +831,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -839,7 +839,7 @@
       }
     ],
     "created_at": "2026-02-08 20:57:23",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6a4c4dd95388047b_user",
@@ -854,7 +854,7 @@
       }
     ],
     "created_at": "2026-02-08 21:00:03",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6a4c4dd95388047b_assistant",
@@ -862,7 +862,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -870,7 +870,7 @@
       }
     ],
     "created_at": "2026-02-08 21:00:03",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ce4b91f82d72903c_user",
@@ -885,7 +885,7 @@
       }
     ],
     "created_at": "2026-02-08 21:02:57",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ce4b91f82d72903c_assistant",
@@ -893,7 +893,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -901,7 +901,7 @@
       }
     ],
     "created_at": "2026-02-08 21:02:57",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_9114717e0fc461bf_user",
@@ -916,7 +916,7 @@
       }
     ],
     "created_at": "2026-02-08 21:05:31",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_9114717e0fc461bf_assistant",
@@ -924,7 +924,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -932,7 +932,7 @@
       }
     ],
     "created_at": "2026-02-08 21:05:31",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_08085ad489dd7fea_user",
@@ -947,7 +947,7 @@
       }
     ],
     "created_at": "2026-02-08 21:08:41",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_08085ad489dd7fea_assistant",
@@ -955,7 +955,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -967,7 +967,7 @@
       }
     ],
     "created_at": "2026-02-08 21:08:41",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_2b0f3c2f477a25b4_user",
@@ -982,7 +982,7 @@
       }
     ],
     "created_at": "2026-02-08 21:13:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_2b0f3c2f477a25b4_assistant",
@@ -990,7 +990,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -998,7 +998,7 @@
       }
     ],
     "created_at": "2026-02-08 21:13:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_7ce9d74988365547_user",
@@ -1013,7 +1013,7 @@
       }
     ],
     "created_at": "2026-02-08 21:16:50",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_7ce9d74988365547_assistant",
@@ -1021,7 +1021,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1033,7 +1033,7 @@
       }
     ],
     "created_at": "2026-02-08 21:16:50",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_af7cbcc85dfcbc75_user",
@@ -1048,7 +1048,7 @@
       }
     ],
     "created_at": "2026-02-08 21:21:32",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_af7cbcc85dfcbc75_assistant",
@@ -1056,7 +1056,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1064,7 +1064,7 @@
       }
     ],
     "created_at": "2026-02-08 21:21:32",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e1207457f86c6d69_user",
@@ -1079,7 +1079,7 @@
       }
     ],
     "created_at": "2026-02-08 21:26:38",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e1207457f86c6d69_assistant",
@@ -1087,7 +1087,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1095,7 +1095,7 @@
       }
     ],
     "created_at": "2026-02-08 21:26:38",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_4edd484596ee42d1_user",
@@ -1110,7 +1110,7 @@
       }
     ],
     "created_at": "2026-02-08 21:30:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_4edd484596ee42d1_assistant",
@@ -1118,7 +1118,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1126,7 +1126,7 @@
       }
     ],
     "created_at": "2026-02-08 21:30:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cc19c9359e8bbe7c_user",
@@ -1141,7 +1141,7 @@
       }
     ],
     "created_at": "2026-02-08 21:31:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_cc19c9359e8bbe7c_assistant",
@@ -1149,7 +1149,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1157,7 +1157,7 @@
       }
     ],
     "created_at": "2026-02-08 21:31:07",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_be1f892c67ebc814_user",
@@ -1172,7 +1172,7 @@
       }
     ],
     "created_at": "2026-02-08 21:34:28",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_be1f892c67ebc814_assistant",
@@ -1180,7 +1180,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1188,7 +1188,7 @@
       }
     ],
     "created_at": "2026-02-08 21:34:28",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_a0839edcfffe89a8_user",
@@ -1203,7 +1203,7 @@
       }
     ],
     "created_at": "2026-02-08 21:36:28",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_a0839edcfffe89a8_assistant",
@@ -1211,7 +1211,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1219,7 +1219,7 @@
       }
     ],
     "created_at": "2026-02-08 21:36:28",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_fee6db22742f038c_user",
@@ -1234,7 +1234,7 @@
       }
     ],
     "created_at": "2026-02-08 21:39:10",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_fee6db22742f038c_assistant",
@@ -1242,7 +1242,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1250,7 +1250,7 @@
       }
     ],
     "created_at": "2026-02-08 21:39:10",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b33740179b6da3a4_user",
@@ -1265,7 +1265,7 @@
       }
     ],
     "created_at": "2026-02-08 21:42:45",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b33740179b6da3a4_assistant",
@@ -1273,7 +1273,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1281,7 +1281,7 @@
       }
     ],
     "created_at": "2026-02-08 21:42:45",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_7ba81d95846c5518_user",
@@ -1296,7 +1296,7 @@
       }
     ],
     "created_at": "2026-02-08 21:48:34",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_7ba81d95846c5518_assistant",
@@ -1304,7 +1304,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1312,7 +1312,7 @@
       }
     ],
     "created_at": "2026-02-08 21:48:34",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_bf367e8ab4ab8869_user",
@@ -1327,7 +1327,7 @@
       }
     ],
     "created_at": "2026-02-08 21:50:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_bf367e8ab4ab8869_assistant",
@@ -1335,7 +1335,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1343,7 +1343,7 @@
       }
     ],
     "created_at": "2026-02-08 21:50:55",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e5784b78a505f747_user",
@@ -1358,7 +1358,7 @@
       }
     ],
     "created_at": "2026-02-08 21:52:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_e5784b78a505f747_assistant",
@@ -1366,7 +1366,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1374,7 +1374,7 @@
       }
     ],
     "created_at": "2026-02-08 21:52:19",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_91ab7caa7579ab6a_user",
@@ -1389,7 +1389,7 @@
       }
     ],
     "created_at": "2026-02-08 21:57:59",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_91ab7caa7579ab6a_assistant",
@@ -1397,7 +1397,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1405,7 +1405,7 @@
       }
     ],
     "created_at": "2026-02-08 21:57:59",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_52cfa6dfc2291204_user",
@@ -1420,7 +1420,7 @@
       }
     ],
     "created_at": "2026-02-08 22:06:29",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_52cfa6dfc2291204_assistant",
@@ -1428,7 +1428,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1436,7 +1436,7 @@
       }
     ],
     "created_at": "2026-02-08 22:06:29",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b269618556fc0f7d_user",
@@ -1451,7 +1451,7 @@
       }
     ],
     "created_at": "2026-02-08 22:12:50",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b269618556fc0f7d_assistant",
@@ -1459,7 +1459,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1471,7 +1471,7 @@
       }
     ],
     "created_at": "2026-02-08 22:12:50",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_2cbc849dd76e9eff_user",
@@ -1486,7 +1486,7 @@
       }
     ],
     "created_at": "2026-02-08 22:15:42",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_2cbc849dd76e9eff_assistant",
@@ -1494,7 +1494,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1502,7 +1502,7 @@
       }
     ],
     "created_at": "2026-02-08 22:15:42",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6483cf06757c3747_user",
@@ -1517,7 +1517,7 @@
       }
     ],
     "created_at": "2026-02-08 22:19:11",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_6483cf06757c3747_assistant",
@@ -1525,7 +1525,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1533,7 +1533,7 @@
       }
     ],
     "created_at": "2026-02-08 22:19:11",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_59cedad61b2ff921_user",
@@ -1548,7 +1548,7 @@
       }
     ],
     "created_at": "2026-02-08 22:30:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_59cedad61b2ff921_assistant",
@@ -1556,7 +1556,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1564,7 +1564,7 @@
       }
     ],
     "created_at": "2026-02-08 22:30:04",
-    "updated_at": 1773780801106
+    "updated_at": 1775423446699
   },
   {
     "id": "r_8de81b1e4f02c76f_user",
@@ -1579,7 +1579,7 @@
       }
     ],
     "created_at": "2026-02-08 22:32:42",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_8de81b1e4f02c76f_assistant",
@@ -1587,7 +1587,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1595,7 +1595,7 @@
       }
     ],
     "created_at": "2026-02-08 22:32:42",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_dc4233ca14a91b74_user",
@@ -1610,7 +1610,7 @@
       }
     ],
     "created_at": "2026-02-08 22:37:18",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_dc4233ca14a91b74_assistant",
@@ -1618,7 +1618,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1626,7 +1626,7 @@
       }
     ],
     "created_at": "2026-02-08 22:37:18",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_184bb517687737d6_user",
@@ -1641,7 +1641,7 @@
       }
     ],
     "created_at": "2026-02-08 23:16:06",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_184bb517687737d6_assistant",
@@ -1649,7 +1649,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1657,7 +1657,7 @@
       }
     ],
     "created_at": "2026-02-08 23:16:06",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_511895480d00ec1d_user",
@@ -1672,7 +1672,7 @@
       }
     ],
     "created_at": "2026-02-08 23:21:56",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_511895480d00ec1d_assistant",
@@ -1680,7 +1680,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1688,7 +1688,7 @@
       }
     ],
     "created_at": "2026-02-08 23:21:56",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_79b0bb932e58e5ad_user",
@@ -1703,7 +1703,7 @@
       }
     ],
     "created_at": "2026-02-08 23:27:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_79b0bb932e58e5ad_assistant",
@@ -1711,7 +1711,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1719,7 +1719,7 @@
       }
     ],
     "created_at": "2026-02-08 23:27:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_06510291b51bcc4e_user",
@@ -1734,7 +1734,7 @@
       }
     ],
     "created_at": "2026-02-08 23:31:51",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_06510291b51bcc4e_assistant",
@@ -1742,7 +1742,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1750,7 +1750,7 @@
       }
     ],
     "created_at": "2026-02-08 23:31:51",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b8e78e5e51b02f69_user",
@@ -1765,7 +1765,7 @@
       }
     ],
     "created_at": "2026-02-08 23:33:08",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_b8e78e5e51b02f69_assistant",
@@ -1773,7 +1773,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1785,7 +1785,7 @@
       }
     ],
     "created_at": "2026-02-08 23:33:08",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5492f69eb5a6988d_user",
@@ -1800,7 +1800,7 @@
       }
     ],
     "created_at": "2026-02-08 23:38:47",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_5492f69eb5a6988d_assistant",
@@ -1808,7 +1808,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1816,7 +1816,7 @@
       }
     ],
     "created_at": "2026-02-08 23:38:47",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_74220a2af1a0cc79_user",
@@ -1831,7 +1831,7 @@
       }
     ],
     "created_at": "2026-02-08 23:41:36",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_74220a2af1a0cc79_assistant",
@@ -1839,7 +1839,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1851,7 +1851,7 @@
       }
     ],
     "created_at": "2026-02-08 23:41:36",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ab1a9fc8827d2f6a_user",
@@ -1866,7 +1866,7 @@
       }
     ],
     "created_at": "2026-02-08 23:45:03",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_ab1a9fc8827d2f6a_assistant",
@@ -1874,7 +1874,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1886,7 +1886,7 @@
       }
     ],
     "created_at": "2026-02-08 23:45:03",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446699
   },
   {
     "id": "r_01239a73d936b31c_user",
@@ -1901,7 +1901,7 @@
       }
     ],
     "created_at": "2026-02-08 23:50:07",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_01239a73d936b31c_assistant",
@@ -1909,7 +1909,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1917,7 +1917,7 @@
       }
     ],
     "created_at": "2026-02-08 23:50:07",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_21402d146dcd8f50_user",
@@ -1932,7 +1932,7 @@
       }
     ],
     "created_at": "2026-02-08 23:52:44",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_21402d146dcd8f50_assistant",
@@ -1940,7 +1940,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -1948,7 +1948,7 @@
       }
     ],
     "created_at": "2026-02-08 23:52:44",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_4ae1f2b78f2463d8_user",
@@ -1963,7 +1963,7 @@
       }
     ],
     "created_at": "2026-02-08 23:55:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_4ae1f2b78f2463d8_assistant",
@@ -1971,7 +1971,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -1983,7 +1983,7 @@
       }
     ],
     "created_at": "2026-02-08 23:55:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_5c632eaff97300ab_user",
@@ -1998,7 +1998,7 @@
       }
     ],
     "created_at": "2026-02-08 23:58:25",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_5c632eaff97300ab_assistant",
@@ -2006,7 +2006,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2014,7 +2014,7 @@
       }
     ],
     "created_at": "2026-02-08 23:58:25",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_48165a2534320047_user",
@@ -2029,7 +2029,7 @@
       }
     ],
     "created_at": "2026-02-09 00:00:58",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_48165a2534320047_assistant",
@@ -2037,7 +2037,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2045,7 +2045,7 @@
       }
     ],
     "created_at": "2026-02-09 00:00:58",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_8b25e11040970521_user",
@@ -2060,7 +2060,7 @@
       }
     ],
     "created_at": "2026-02-09 00:05:20",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_8b25e11040970521_assistant",
@@ -2068,7 +2068,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2076,7 +2076,7 @@
       }
     ],
     "created_at": "2026-02-09 00:05:20",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_abd6c5b2f0ebd66c_user",
@@ -2091,7 +2091,7 @@
       }
     ],
     "created_at": "2026-02-09 00:09:11",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_abd6c5b2f0ebd66c_assistant",
@@ -2099,7 +2099,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2107,7 +2107,7 @@
       }
     ],
     "created_at": "2026-02-09 00:09:11",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_88a3eb3f9e9066f9_user",
@@ -2122,7 +2122,7 @@
       }
     ],
     "created_at": "2026-02-09 00:12:29",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_88a3eb3f9e9066f9_assistant",
@@ -2130,7 +2130,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -2142,7 +2142,7 @@
       }
     ],
     "created_at": "2026-02-09 00:12:29",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_a95d0c5570cd19e6_user",
@@ -2157,7 +2157,7 @@
       }
     ],
     "created_at": "2026-02-09 00:14:23",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_a95d0c5570cd19e6_assistant",
@@ -2165,7 +2165,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2173,7 +2173,7 @@
       }
     ],
     "created_at": "2026-02-09 00:14:23",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_d51bb37a868b00c5_user",
@@ -2188,7 +2188,7 @@
       }
     ],
     "created_at": "2026-02-09 00:19:36",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_d51bb37a868b00c5_assistant",
@@ -2196,7 +2196,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2204,7 +2204,7 @@
       }
     ],
     "created_at": "2026-02-09 00:19:36",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_2a192c511126ca1b_user",
@@ -2219,7 +2219,7 @@
       }
     ],
     "created_at": "2026-02-09 00:24:11",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_2a192c511126ca1b_assistant",
@@ -2227,7 +2227,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "text",
@@ -2235,7 +2235,7 @@
       }
     ],
     "created_at": "2026-02-09 00:24:11",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_ebc3d05193be75bb_user",
@@ -2250,7 +2250,7 @@
       }
     ],
     "created_at": "2026-02-09 00:27:46",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_ebc3d05193be75bb_assistant",
@@ -2258,7 +2258,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -2270,7 +2270,7 @@
       }
     ],
     "created_at": "2026-02-09 00:27:46",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_542e10c31804bf04_user",
@@ -2285,7 +2285,7 @@
       }
     ],
     "created_at": "2026-02-09 00:32:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_542e10c31804bf04_assistant",
@@ -2293,7 +2293,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -2305,7 +2305,7 @@
       }
     ],
     "created_at": "2026-02-09 00:32:49",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_28d401bcdc70ec41_user",
@@ -2320,7 +2320,7 @@
       }
     ],
     "created_at": "2026-02-09 00:35:51",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   },
   {
     "id": "r_28d401bcdc70ec41_assistant",
@@ -2328,7 +2328,7 @@
     "role": "assistant",
     "model": "gemini",
     "displayModel": "Gemini",
-    "modelId": "Thinking",
+    "modelId": "3 Flash Thinking",
     "contents": [
       {
         "type": "thinking",
@@ -2340,6 +2340,6 @@
       }
     ],
     "created_at": "2026-02-09 00:35:51",
-    "updated_at": 1773780801107
+    "updated_at": 1775423446700
   }
 ]
