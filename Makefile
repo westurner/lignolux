@@ -16,6 +16,10 @@ aggregate_data:
 transform_md_all:
 	transform-md --indir data/chatoverlay/chats__all/ --outdir docs/chats/ --transform-cell-split m1 --out-format=myst,ipynb,chatexport_abc1
 
+
+transform_md_data_chats:
+	transform-md --indir data/chats/ --outdir docs/chats/ --transform-cell-split m1 --out-format=myst,ipynb,chatexport_abc1
+
 update_schemadir:
 	schematool
 
